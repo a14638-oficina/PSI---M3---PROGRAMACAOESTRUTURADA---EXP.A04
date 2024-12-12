@@ -64,4 +64,4 @@ def main():
             print("Opção inválida! Tente novamente.")
 
 if __name__ == "__main__":
-    main()PSI-M3-14638-EXP.A04
+    main()
